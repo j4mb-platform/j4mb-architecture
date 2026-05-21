@@ -1,4 +1,3 @@
-</> Markdown
 # ADR-001 - Primary Relational Database
 
 ## Status
